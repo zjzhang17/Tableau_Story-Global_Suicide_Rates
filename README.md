@@ -15,4 +15,4 @@ In preparing my data, I acquired the dataset from https://www.kaggle.com/dataset
 3. Jukkala, Tanya, et al. "Age, Period, and Cohort Effects on Suicide Mortality in Russia, 1956−2005." *BMC Public Health*, BioMed Central, 7 Mar. 2017, bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-017-4158-2.
 4. Rehkopf, SL, and DH Buka. "The Association between Suicide and the Socio-Economic Characteristics of Geographical Areas: A Systematic Review." *Psychological Medicine*, U.S. National Library of Medicine, www.ncbi.nlm.nih.gov/pubmed/16420711. Accessed 12 Nov. 2023.
 
-Link: https://public.tableau.com/views/Global_Suicide_Rates_Story/AnIn-DepthAnalysisofGlobalSuicideRatesBetween1985-2015?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+## https://public.tableau.com/views/Global_Suicide_Rates_Story/AnIn-DepthAnalysisofGlobalSuicideRatesBetween1985-2015?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
