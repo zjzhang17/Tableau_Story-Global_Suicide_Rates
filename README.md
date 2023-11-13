@@ -7,3 +7,5 @@ I have created a Tableau story to explore and provide insights into the rising r
 ## Data Preparation
 
 In preparing my data, I acquired the dataset from https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016. This dataset encompasses various metrics, including country, age, sex, year, population, suicide rates, HDI, and GDP per capita.
+
+https://public.tableau.com/views/Global_Suicide_Rates_Story/AnIn-DepthAnalysisofGlobalSuicideRatesBetween1985-2015?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
